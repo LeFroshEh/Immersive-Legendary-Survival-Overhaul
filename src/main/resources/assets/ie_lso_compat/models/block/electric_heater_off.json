@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "ie_lso_compat:block/electric_heater/front_off",
+    "up": "ie_lso_compat:block/electric_heater/top",
+    "down": "ie_lso_compat:block/electric_heater/bottom",
+    "south": "ie_lso_compat:block/electric_heater/front_off",
+    "north": "ie_lso_compat:block/electric_heater/back_off",
+    "west": "ie_lso_compat:block/electric_heater/left_off",
+    "east": "ie_lso_compat:block/electric_heater/right_off"
+  }
+}

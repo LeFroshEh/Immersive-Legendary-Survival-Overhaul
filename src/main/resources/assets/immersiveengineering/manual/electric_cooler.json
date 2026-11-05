@@ -1,0 +1,12 @@
+{
+  "cooler": {
+    "type": "item_display",
+    "items": [
+      { "item": "ie_lso_compat:electric_cooler" }
+    ]
+  },
+  "recipe": {
+    "type": "crafting",
+    "recipe": "ie_lso_compat:electric_cooler"
+  }
+}

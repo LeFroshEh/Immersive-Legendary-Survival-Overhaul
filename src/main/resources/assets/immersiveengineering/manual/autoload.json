@@ -1,0 +1,10 @@
+{
+  "autoload_priority": 2,
+  "thermoregulation": {
+    "category_weight": 35,
+    "entry_list": [
+      "electric_heater",
+      "electric_cooler"
+    ]
+  }
+}

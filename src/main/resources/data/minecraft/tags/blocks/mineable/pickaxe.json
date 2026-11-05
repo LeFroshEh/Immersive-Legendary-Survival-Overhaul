@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "ie_lso_compat:electric_heater",
+    "ie_lso_compat:electric_cooler"
+  ]
+}

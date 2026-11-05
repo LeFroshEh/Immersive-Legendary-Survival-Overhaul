@@ -1,0 +1,7 @@
+Electric Cooler
+Cool Running
+<&cooler>The Electric Cooler is the heater's chilly sibling, it turns Flux into a cool breeze for everyone nearby. Like the heater it has no inventory and needs no fuel, just power.
+It only accepts energy through its §2top§r, the side with the socket. Place a <link;wiring;connector> on top and run your wires there.<np>
+While powered, the cooler consumes §o20 Flux/t§r and removes §o20§r units of heat, the exact opposite of the Electric Heater. It stores up to §o20000 Flux§r internally, which keeps it running for about fifty seconds if the supply is cut.
+Once the energy runs out, the icy glow in its grille fades and the room slowly warms up again.<np>
+<&recipe>The Electric Cooler is an upgrade of the Cooler from the Legendary Survival Overhaul, built with §2Electrum Wire Coils§r for the higher power draw.

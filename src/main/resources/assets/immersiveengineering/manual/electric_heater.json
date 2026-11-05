@@ -1,0 +1,12 @@
+{
+  "heater": {
+    "type": "item_display",
+    "items": [
+      { "item": "ie_lso_compat:electric_heater" }
+    ]
+  },
+  "recipe": {
+    "type": "crafting",
+    "recipe": "ie_lso_compat:electric_heater"
+  }
+}

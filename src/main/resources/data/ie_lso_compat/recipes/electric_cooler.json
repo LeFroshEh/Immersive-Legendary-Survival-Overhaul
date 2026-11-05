@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": { "tag": "forge:plates/copper" },
+    "r": { "tag": "forge:dusts/redstone" },
+    "c": { "item": "legendarysurvivaloverhaul:cooler" },
+    "w": { "item": "immersiveengineering:wirecoil_electrum" }
+  },
+  "pattern": [
+    "pwp",
+    "wcw",
+    "prp"
+  ],
+  "result": { "item": "ie_lso_compat:electric_cooler" },
+  "show_notification": true
+}

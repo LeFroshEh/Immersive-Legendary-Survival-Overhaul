@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": { "tag": "forge:plates/copper" },
+    "r": { "tag": "forge:dusts/redstone" },
+    "h": { "item": "immersiveengineering:furnace_heater" },
+    "w": { "item": "immersiveengineering:wirecoil_electrum" }
+  },
+  "pattern": [
+    "pwp",
+    "whw",
+    "prp"
+  ],
+  "result": { "item": "ie_lso_compat:electric_heater" },
+  "show_notification": true
+}

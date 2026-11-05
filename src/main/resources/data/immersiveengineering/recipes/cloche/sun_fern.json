@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": { "item": "legendarysurvivaloverhaul:sun_fern_seeds" },
+  "render": { "type": "crop", "block": "legendarysurvivaloverhaul:sun_fern_crop" },
+  "results": [
+    { "item": "legendarysurvivaloverhaul:sun_fern_leaf" },
+    { "item": "legendarysurvivaloverhaul:sun_fern_seeds" }
+  ],
+  "soil": { "item": "minecraft:sand" },
+  "time": 960
+}

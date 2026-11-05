@@ -1,0 +1,7 @@
+Electric Heater
+Warm and Fuzzy
+<&heater>The Electric Heater does exactly what its name implies, it turns Flux into warmth for everyone nearby. Unlike the common heater it needs no fuel and has no inventory, so there is nothing to refill, just power.
+It only accepts energy through its §2top§r, the side with the socket. Place a <link;wiring;connector> on top and run your wires there.<np>
+While powered, the heater consumes §o20 Flux/t§r and radiates §o20§r units of heat, a little more than its fuel-burning cousin. It stores up to §o20000 Flux§r internally, which keeps it running for about fifty seconds if the supply is cut.
+Once the energy runs out, the glow in its grille fades and the room slowly cools down again.<np>
+<&recipe>The Electric Heater is an upgrade of the <link;external_heater;External Heater>, built with §2Electrum Wire Coils§r for the higher power draw.

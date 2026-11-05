@@ -1,0 +1,6 @@
+{
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": { "amount": 10, "tag": "minecraft:lava" },
+  "input": { "item": "minecraft:string" },
+  "results": [ { "item": "legendarysurvivaloverhaul:warm_string" } ]
+}

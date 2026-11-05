@@ -1,0 +1,6 @@
+{
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": { "amount": 10, "tag": "minecraft:water" },
+  "input": { "item": "minecraft:string" },
+  "results": [ { "item": "legendarysurvivaloverhaul:cold_string" } ]
+}

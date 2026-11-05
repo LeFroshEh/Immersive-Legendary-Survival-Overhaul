@@ -119,6 +119,7 @@ obfuscation {
 dependencies {
     modImplementation "blank:ImmersiveEngineering-1.20.1:10.2.0-183"
     modImplementation "blank:legendarysurvivaloverhaul-1.20.1:2.4.7"
+    compileOnly 'org.jetbrains:annotations:26.0.2'
 }
 
 repositories {
